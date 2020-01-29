@@ -1,0 +1,5 @@
+{"latitude": "52.663013", "user_id": 5, "name": "Groody Student Park", "longitude": "-8.577651"}
+{"latitude": "52.672586", "user_id": 1, "name": "University of Limerick", "longitude": "-8.572791"}
+{"latitude": "53.430440", "user_id": 18, "name": "Dublin Airport", "longitude": "-6.241576"}
+{"latitude": "53.430440", "user_id": 7, "name": "University College Dublin", "longitude": "-6.241576"}
+{"latitude": "", "user_id": 10, "name": "Invalid value", "longitude": ""}
